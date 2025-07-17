@@ -14,8 +14,8 @@ export default function Home() {
           </h1>
         </div>
         <nav className="space-x-6 text-sm font-serif text-black-000">
-          <Link href="/mission">The Mission</Link>
-          <Link href="/goals">Our Goals</Link>
+          <Link href="/mission">Mission</Link>
+          <Link href="/goals">Goals</Link>
           <Link href="/about">About</Link>
           <Link href="/contact">Contact</Link>
         </nav>
